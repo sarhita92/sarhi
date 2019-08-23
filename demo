@@ -1,0 +1,145 @@
+{
+  "status": "SUCCESS",
+  "requestId": "b1662db3-d692-4f86-a5cf-65ce03b78b74",
+  "datetime": "23-08-2019 08:14:03",
+  "docTypes": [
+    {
+      "id": 10,
+      "description": "Carta Identità Cartacea",
+      "availableIssuers": [
+        {
+          "id": 1,
+          "description": "Comune"
+        },
+        {
+          "id": 5,
+          "description": "Altro emittente"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "description": "Carta Identità Elettronica",
+      "availableIssuers": [
+        {
+          "id": 1,
+          "description": "Comune"
+        },
+        {
+          "id": 5,
+          "description": "Altro emittente"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "description": "Patente Cartacea",
+      "availableIssuers": [
+        {
+          "id": 3,
+          "description": "Prefettura"
+        },
+        {
+          "id": 4,
+          "description": "Motorizzazione"
+        },
+        {
+          "id": 6,
+          "description": "Ministero dei trasporti"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "description": "Patente Elettronica",
+      "availableIssuers": [
+        {
+          "id": 3,
+          "description": "Prefettura"
+        },
+        {
+          "id": 4,
+          "description": "Motorizzazione"
+        },
+        {
+          "id": 6,
+          "description": "Ministero dei trasporti"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "description": "Passaporto Italiano",
+      "availableIssuers": [
+        {
+          "id": 2,
+          "description": "Questura"
+        },
+        {
+          "id": 5,
+          "description": "Altro emittente"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "description": "Tessera Riconosc. Mod.AT",
+      "availableIssuers": [
+        {
+          "id": 1,
+          "description": "Comune"
+        },
+        {
+          "id": 2,
+          "description": "Questura"
+        },
+        {
+          "id": 4,
+          "description": "Motorizzazione"
+        },
+        {
+          "id": 3,
+          "description": "Prefettura"
+        },
+        {
+          "id": 6,
+          "description": "Ministero dei trasporti"
+        },
+        {
+          "id": 5,
+          "description": "Altro emittente"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "description": "Tessera Riconosc. Mod.BT",
+      "availableIssuers": [
+        {
+          "id": 1,
+          "description": "Comune"
+        },
+        {
+          "id": 2,
+          "description": "Questura"
+        },
+        {
+          "id": 4,
+          "description": "Motorizzazione"
+        },
+        {
+          "id": 3,
+          "description": "Prefettura"
+        },
+        {
+          "id": 6,
+          "description": "Ministero dei trasporti"
+        },
+        {
+          "id": 5,
+          "description": "Altro emittente"
+        }
+      ]
+    }
+  ]
+}
